@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /book/?*
+
+Sitemap: https://surreywaste.com/sitemap.xml

@@ -1,0 +1,21 @@
+{
+  "name": "Surrey Waste",
+  "short_name": "Surrey Waste",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0c3b1c",
+  "description": "Rubbish removal, site clearance and scrap metal collection across Surrey, Middlesex and London.",
+  "icons": [
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
